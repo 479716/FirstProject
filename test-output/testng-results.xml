@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="203" started-at="2018-12-19T20:44:39Z" finished-at="2018-12-19T20:44:40Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="203" started-at="2018-12-19T20:44:39Z" finished-at="2018-12-19T20:44:40Z">
+      <class name="com.oup.com.oupinterview.test">
+        <test-method status="PASS" signature="hello()" name="hello" duration-ms="94" started-at="2018-12-19T20:44:40Z" finished-at="2018-12-19T20:44:40Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
